@@ -1,6 +1,6 @@
-title: My awesome list title
+title: My awesome list
 permalink: '/:title/'
-logo: My awesome list logo
+logo: My awesome list
 sass:
   indentWidth: 4
   precision: 10
