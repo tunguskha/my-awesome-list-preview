@@ -19,7 +19,7 @@ metadata:
 stackbit_banner:
   show_banner: true
   name: my-awesome-list
-  create_url: 'https://app.stackbit.com/create?theme=my-awesome-list'
+  create_url: 'https://app.stackbit.com/create?theme=https://github.com/tunguskha/my-awesome-list'
   github_url: 'https://github.com/tunguskha/my-awesome-list'
 models:
   config:
