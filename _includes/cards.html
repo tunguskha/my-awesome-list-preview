@@ -1,7 +1,7 @@
 {% assign item_is_not_empty = site.data.items.item | is_not_empty %}
 {% if item_is_not_empty %}
 <div class="row">
-    <ul class="cards">
+    <ul class="cards" id="searchContent">
         {% for item in site.data.items.item %}
         <li class="col s12 m6">
             <div class="card">
